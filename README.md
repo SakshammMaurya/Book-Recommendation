@@ -7,7 +7,7 @@
   * [Demo](#demo)
   * [Overview](#overview)
   * [Technical Aspect](#technical-aspect)
-  * [🚀 Deployement](#deployement-on-heroku)
+  * [Deployement](#deployement)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
@@ -47,7 +47,7 @@ This project is divided into three parts:
      - __Real-time error handling__ with appropriate messages like “Book not found” or “Network error”.
   
 
-## 🚀 Deployement
+## Deployement
 This project is built and tested locally. Below is how you can deploy and run both components:
 
 ### Flask Backend (API)
@@ -132,9 +132,9 @@ Saksham Maurya
 This project was inspired and supported by the following resources:
 
 ### Youtube tutorials
-- [Book Recommender System | Machine Learning Project]("https://youtu.be/1YoD0fg3_EM?si=YlJX1LqapFVZh2Cj")
-- [Machine Learning Android App]("https://youtu.be/ax3WyB-_LJY?si=QtsZgqHEoLnW8KoV")
-- [Complete REST API tutorial in flask]("https://youtu.be/mWrvI0hfllI?si=rFN7kDn8N7KTHDKM")
+- [Book Recommender System | Machine Learning Project](https://youtu.be/1YoD0fg3_EM?si=YlJX1LqapFVZh2Cj)
+- [Machine Learning Android App](https://youtu.be/ax3WyB-_LJY?si=QtsZgqHEoLnW8KoV)
+- [Complete REST API tutorial in flask](https://youtu.be/mWrvI0hfllI?si=rFN7kDn8N7KTHDKM)
 
 ### Datasets
-- [Books dataset on Kaggle]("https://www.kaggle.com/datasets/saurabhbagchi/books-dataset")
+- [Books dataset on Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset)
